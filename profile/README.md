@@ -115,6 +115,6 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=built+with+%F0%9F%96%A4+by+Devil's+Studio" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=built+with+%F0%9F%96%A4+by+ItsmeDevil" alt="footer" />
 
 </div>
